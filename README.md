@@ -3,8 +3,8 @@
 This folder contains a number of scripts for quantitative finance using Python.
 
 At the moment, the working scripts are:
-1) - Optimal Portfolio
-2) - In progress
+1) Optimal Portfolio
+2) In progress
  
 Typical Requirements:
 - Python 3.7 or higher
